@@ -1,0 +1,19 @@
+:root {
+    --bs-primary: #25475e;
+    --bs-secondary: #3d7cc4;
+    --bs-success: #00ab5b;
+    --bs-info: #02cca1;
+    --bs-warning: #e8cb00;
+    --bs-danger: #f8000d;
+    --bs-light: #deebef;
+    --bs-dark: #201c3b;
+    --bs-primary-rgb: 37, 71, 94;
+    --bs-secondary-rgb: 61, 124, 196;
+    --bs-success-rgb: 0, 171, 91;
+    --bs-info-rgb: 2, 204, 161;
+    --bs-warning-rgb: 232, 203, 0;
+    --bs-danger-rgb: 248, 0, 13;
+    --bs-light-rgb: 222, 235, 239;
+    --bs-dark-rgb: 32, 28, 59;
+    --bs-body-color-rgb: 32, 28, 59;
+}
